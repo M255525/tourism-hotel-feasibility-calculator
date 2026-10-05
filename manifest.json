@@ -1,0 +1,16 @@
+{
+  "name": "觀光飯店經營評估試算工具",
+  "short_name": "飯店試算",
+  "description": "調整房間數、房價、淡旺季住房率與人事編制，逐月試算觀光地區飯店的損益、損益兩平住房率與回本年數",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F6F4",
+  "theme_color": "#0E3B4E",
+  "lang": "zh-TW",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
