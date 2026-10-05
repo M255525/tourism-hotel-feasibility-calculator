@@ -45,7 +45,7 @@
 
 ## 部署
 
-2026-10-05 建立時**只在本機 commit，尚未建 GitHub repo、尚未上線**（依使用者「實驗性新工具部署前先確認」偏好）。`.github/workflows/deploy-pages.yml` 已先放好（Actions 部署模式，branch `master`），之後使用者同意上線時建公開 repo `M255525/tourism-hotel-feasibility-calculator` 並啟用 Pages 即可。
+2026-10-05 經使用者同意後已推公開 GitHub repo：<https://github.com/M255525/tourism-hotel-feasibility-calculator>，並以 `.github/workflows/deploy-pages.yml`（Actions 部署模式，branch `master`，不是 legacy branch-source）啟用 GitHub Pages：<https://m255525.github.io/tourism-hotel-feasibility-calculator/>。push 到 master 就會自動重新部署。
 
 ## 指令
 
